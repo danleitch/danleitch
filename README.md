@@ -2,7 +2,7 @@
 
 
 
-## Fancy seeing you here! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Fancy seeing you here! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Danielleitch-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielleitch//)](https://www.linkedin.com/in/danielleitch/)
@@ -53,12 +53,14 @@ I am a tech enthusiast & an open-source advocate. I am always open to collaborat
 
 
 ## 📈 My GitHub Stats
+<p align="center">
 <a href="https://github.com/Thunder-Chief/Thunder-Chief">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thunder-Chief&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/Thunder-Chief/Thunder-Chief">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Thunder-Chief&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
+</p>
 <br />
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Thunder-Chief)
