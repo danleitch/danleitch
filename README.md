@@ -2,7 +2,7 @@
 
 
 
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Fancy seeing you here! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://discord.gg/XTW52Kt">
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
@@ -18,7 +18,7 @@
 </a>
 
 
-![](https://visitor-badge.glitch.me/badge?page_id=Thunder-Chief)
+
 
 <br />
 
@@ -66,5 +66,5 @@ Hi, I'm Daniel Leitch, a Full Stack Developer 🚀 from South Africa. Beside's p
 <a href="https://github.com/Thunder-Chief/Thunder-Chief">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Thunder-Chief&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
-
+![](https://visitor-badge.glitch.me/badge?page_id=Thunder-Chief)
 
