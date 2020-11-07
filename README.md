@@ -39,6 +39,7 @@ I am a tech enthusiast & an open-source advocate. I am always open to collaborat
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![IOT](https://img.shields.io/badge/-IOT-blue?style=flat-square&logo=IOT)
 
 
 
