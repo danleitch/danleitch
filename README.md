@@ -1,13 +1,6 @@
-<a href="https://github.com/Thunder-Chief/Thunder-Chief">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thunder-Chief&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/Thunder-Chief/Thunder-Chief">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Thunder-Chief&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
-</a>
 
-<a href="https://github.com/Thunder-Chief/python-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Thunder-Chief&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+
+
 
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://discord.gg/XTW52Kt">
@@ -50,10 +43,13 @@ Hi, I'm Daniel Leitch, a Full Stack Developer 🚀 from South Africa. Beside's p
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 
-<details>
+
 <summary>📈 My GitHub Stats</summary>
+<a href="https://github.com/Thunder-Chief/Thunder-Chief">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thunder-Chief&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/Thunder-Chief/Thunder-Chief">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Thunder-Chief&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+</a>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Thunder-Chief&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
-
-</details>
 
