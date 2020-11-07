@@ -49,6 +49,7 @@ Hi, I'm Daniel Leitch, a Full Stack Developer 🚀 from South Africa. Beside's p
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-red?style=flat-square&logo=Ubuntu&logoColor=black)
+![Windows](https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=windows&logoColor=white)
 ![Shell](https://img.shields.io/badge/-Shell-blasck?style=flat-square&logo=Shell)
 ![VS](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
