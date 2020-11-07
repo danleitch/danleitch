@@ -3,24 +3,12 @@
 
 
 ### Fancy seeing you here! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://discord.gg/XTW52Kt">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
-</a>
 
-<a href="https://www.linkedin.com/in/danielleitch/">
-  <img align="left" alt="Abhishek's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://t.me/bladesnbones">
-  <img align="left" alt="Abhishek's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://www.instagram.com/dan_leitch/">
-  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Danielleitch-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielleitch//)](https://www.linkedin.com/in/danielleitch/)
 [![Instagram Badge](https://img.shields.io/badge/-dan_leitch-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/dan_leitch/)](https://www.instagram.com/dan_leitch/)
 [![Gmail Badge](https://img.shields.io/badge/-dndleitch@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dndleitch@gmail.com)](mailto:dndleitch@gmail.com)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-red?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/bladesnbones)]
+![Telegram Badge](https://img.shields.io/badge/-Telegram-red?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/bladesnbones)
 
 
 
