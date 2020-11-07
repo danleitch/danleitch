@@ -37,7 +37,6 @@ Hi, I'm Daniel Leitch, a Full Stack Developer 🚀 from South Africa. Beside's p
 ## ⚡ Technologies
 
 ![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)
-![OS](https://img.shields.io/badge/-Linux?style=flat-square&logo=linux&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
@@ -53,6 +52,7 @@ Hi, I'm Daniel Leitch, a Full Stack Developer 🚀 from South Africa. Beside's p
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 ![Shell](https://img.shields.io/badge/-Shell-blasck?style=flat-square&logo=Shell)
 ![VS](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-red?style=flat-square&logo=Ubuntu&logoColor=black)
 
 
 
