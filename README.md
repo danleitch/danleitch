@@ -19,6 +19,13 @@ I am a tech enthusiast & an open-source advocate. I am always open to collaborat
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
+**Talking about Personal Stuffs:**
+
+- 👨🏽‍💻 I’m currently working on something cool :wink:;
+- 🌱 I’m currently learning Mongo; 
+- 💬 Ask me about anything, I am happy to help;
+- 📝[Resume](https://thunder-chief.github.io/Daniel_Leitch_CV/)
+
 ## ⚡ Technologies
 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
