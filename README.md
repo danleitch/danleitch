@@ -14,7 +14,7 @@
 
 <br />
 
-Hi, I'm Daniel Leitch, a Full Stack Developer 🚀 from South Africa.
+Hi, I'm Daniel Leitch, a Full Stack Developer 🚀 from sunny Cape Town, South Africa.
 I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here!
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
