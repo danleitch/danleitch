@@ -15,7 +15,6 @@ I am a tech enthusiast & an open-source advocate. I am always open to collaborat
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 🌱 I’m currently learning Mongo; 
-- 💬 Ask me about anything, I am happy to help;
 - 📝[Resume](https://thunder-chief.github.io/Daniel_Leitch_CV/)
 - I enjoy TV-Shows & Movies - I have a [Plex](https://github.com/plexinc) instance on a server in Amsterdam that I manage, it serves my media collection to me and my family.
 
