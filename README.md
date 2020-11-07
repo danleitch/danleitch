@@ -17,15 +17,7 @@
 Hi, I'm Daniel Leitch, a Full Stack Developer 🚀 from South Africa.
 I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here!
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-  
-**Talking about Personal Stuffs:**
-
-- 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning Mongo; 
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to [mail me](mailto:dndleitch@gmail.com);
-- 📝[Resume](https://thunder-chief.github.io/Daniel_Leitch_CV/)
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 ## ⚡ Technologies
 
