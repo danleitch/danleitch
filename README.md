@@ -1,18 +1,10 @@
-
-
-
-
 ### Fancy seeing you here! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
 
 [![Linkedin Badge](https://img.shields.io/badge/-Danielleitch-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielleitch//)](https://www.linkedin.com/in/danielleitch/)
 [![Instagram Badge](https://img.shields.io/badge/-dan_leitch-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/dan_leitch/)](https://www.instagram.com/dan_leitch/)
 [![Gmail Badge](https://img.shields.io/badge/-dndleitch@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dndleitch@gmail.com)](mailto:dndleitch@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-red?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/bladesnbones)](https://t.me/bladesnbones)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Thunder-Chief)
-
-
-<br />
 
 Hi, I'm Daniel Leitch, a Full Stack Developer 🚀 from sunny Cape Town, South Africa.
 I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here!
