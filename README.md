@@ -48,7 +48,7 @@ I am a tech enthusiast & an open-source advocate. I am always open to collaborat
 
 [![Daniel's github stats](https://github-readme-stats.vercel.app/api?username=Thunder-Chief&theme=tokyonight&show_icons=true)](https://github.com/Thunder-Chief/Thunder-Chief)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thunder-Chief&layout=compact)](https://github.com/Thunder-Chief/Thunder-Chief)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thunder-Chief&theme=tokyonight&layout=compact)](https://github.com/Thunder-Chief/Thunder-Chief)
 
   
   
