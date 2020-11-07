@@ -4,6 +4,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-dan_leitch-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/dan_leitch/)](https://www.instagram.com/dan_leitch/)
 [![Gmail Badge](https://img.shields.io/badge/-dndleitch@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dndleitch@gmail.com)](mailto:dndleitch@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-red?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/bladesnbones)](https://t.me/bladesnbones)
+[!(Resume](https://img.shields.io/badge/-Resume-success?style=flat-square)](https://thunder-chief.github.io/Daniel_Leitch_CV/)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Thunder-Chief)
 
 Hi, I'm Daniel Leitch, a Full Stack Developer 🚀 from sunny Cape Town, South Africa.
@@ -15,7 +16,6 @@ I am a tech enthusiast & an open-source advocate. I am always open to collaborat
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 🌱 I’m currently learning Mongo; 
-- 📝[Resume](https://thunder-chief.github.io/Daniel_Leitch_CV/)
 - I enjoy TV-Shows & Movies - I have a [Plex](https://github.com/plexinc) instance on a server in Amsterdam that I manage, it serves my media collection to me and my family.
 
 ## ⚡ Technologies
