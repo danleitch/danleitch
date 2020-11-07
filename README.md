@@ -62,3 +62,5 @@ I am a tech enthusiast & an open-source advocate. I am always open to collaborat
 <br />
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=Thunder-Chief)
 
+   ![visitors](https://visitor-badge.glitch.me/badge?page_id=Thunder-Chief)
+
