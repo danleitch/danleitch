@@ -40,8 +40,7 @@ I am a tech enthusiast & an open-source advocate. I am always open to collaborat
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![IOT](https://img.shields.io/badge/-IOT-blue?style=flat-square&logo=IOT)
-
-<a href="https://github.com/alwinw/alwinw" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/alwinw/alwinw?label=profile%20updated&style=flat-square"></a>
+<img alt="GitHub hits" src="https://img.shields.io/github/last-commit/Thunder-Chief/Thunder-Chief?label=profile%20updated&style=flat-square">
 
 
 
