@@ -33,6 +33,8 @@ I am a tech enthusiast & an open-source advocate. I am always open to collaborat
 ![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Nginx](https://img.shields.io/badge/-Nginx-black?style=flat-square&logo=nginx)
+<img src="https://img.shields.io/badge/nginx%20-%23009639.svg?&style=for-the-badge&logo=nginx&logoColor=white"/>
+<img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
 ![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-red?style=flat-square&logo=Ubuntu&logoColor=black)
 ![Windows](https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=windows&logoColor=white)
