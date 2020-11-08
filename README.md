@@ -5,6 +5,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-dndleitch@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dndleitch@gmail.com)](mailto:dndleitch@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-red?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/bladesnbones)](https://t.me/bladesnbones)
 [![Resume](https://img.shields.io/badge/-Resume-success?style=flat-square)](https://thunder-chief.github.io/Daniel_Leitch_CV/)
+<img alt="GitHub hits" src="https://img.shields.io/github/last-commit/Thunder-Chief/Thunder-Chief?label=profile%20updated&style=flat-square">
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Thunder-Chief)
 
 Hi, I'm Daniel Leitch, a Full Stack Developer 🚀 from Cape Town, South Africa.
@@ -40,7 +41,7 @@ I am a tech enthusiast & an open-source advocate. I am always open to collaborat
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![IOT](https://img.shields.io/badge/-IOT-blue?style=flat-square&logo=IOT)
-<img alt="GitHub hits" src="https://img.shields.io/github/last-commit/Thunder-Chief/Thunder-Chief?label=profile%20updated&style=flat-square">
+
 
 
 
