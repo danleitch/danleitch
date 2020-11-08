@@ -5,7 +5,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-dan_leitch-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/dan_leitch/)](https://www.instagram.com/dan_leitch/)
 [![Gmail Badge](https://img.shields.io/badge/-dndleitch@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dndleitch@gmail.com)](mailto:dndleitch@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-red?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/bladesnbones)](https://t.me/bladesnbones)
-<img alt="GitHub hits" src="https://img.shields.io/github/last-commit/Thunder-Chief/Thunder-Chief?label=profile%20updated&style=flat-square">
+<img alt="GitHub hits" src="https://img.shields.io/github/last-commit/Thunder-Chief/Thunder-Chief?label=Profile%20Updated&style=flat-square">
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Thunder-Chief)
 
 Hi, I'm Daniel Leitch, a Full Stack Developer 🚀 from Cape Town, South Africa.
