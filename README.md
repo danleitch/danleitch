@@ -8,7 +8,7 @@
 <img alt="GitHub hits" src="https://img.shields.io/github/last-commit/Thunder-Chief/Thunder-Chief?label=Profile%20Updated&style=flat-square">
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Thunder-Chief)
 
-Hi, I'm Daniel Leitch, a Full Stack Developer 🚀 from Cape Town, South Africa.
+Hi, I'm Daniel Leitch, a Full Stack Developer and Linux Enthusiast 🚀 from Cape Town, South Africa.
 I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here!
 
 <img align="right" alt="GIF" src="https://github.com/Thunder-Chief/Thunder-Chief/blob/main/code.gif?raw=true" width="500" height="320" />
