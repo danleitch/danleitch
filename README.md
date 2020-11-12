@@ -21,14 +21,16 @@ Find out more about me & feel free to connect with me here!
 
 <details>
 <summary>📂 Hobbies On the Go </summary>
- 
+ <p>
  - I have a Ubunutu instance on a server in Amsterdam and another server I run at home, they both serve my media collection to my friends & family.
-   These instances run all their applications on docker, which is passed through Nginx with full SSL done by Let's Encrypt & CertBot, Nginx is set up to act as reverse proxy for    security and ease of use purposes. then from there it goes through Cloudflare for CDN then to NameCheap which my domain is hosted.
+   These instances run all their applications on docker, which is passed through Nginx with full SSL done by Let's Encrypt & CertBot, Nginx is set up to act as reverse proxy for    security and ease of use purposes. then from there it goes through Cloudflare for [CDN](https://www.cloudflare.com/en-gb/learning/cdn/what-is-a-cdn/) then to NameCheap which is my domain provider.
+  
+  [howdy](https://www.cloudflare.com/en-gb/learning/cdn/what-is-a-cdn/)
   
  - I have built my own Raspberry pi Security camera system which streams and records in 1080p and run on POE (Power over ethernet) this is also served through Nginx which make      it viewable from outside the home.  
  
  - Another interest of mine is manipulating my DNS to block out website adverts, this is achieved my running Pi-hole on docker on the server. 
-
+<p/>
  
  
 </details>
