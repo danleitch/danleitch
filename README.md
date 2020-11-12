@@ -24,7 +24,6 @@ Find out more about me & feel free to connect with me here!
 - 🎞 I enjoy TV-Shows & Movies - I have a Plex instance on a server in Amsterdam that I manage, it serves my media collection to my friends & family.
 </details>
 
-<p>
 ## ⚡ Technologies
 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
@@ -57,6 +56,3 @@ Find out more about me & feel free to connect with me here!
 ## 📈 My GitHub Stats
 [![Daniel's github stats](https://github-readme-stats.vercel.app/api?username=Thunder-Chief&theme=tokyonight&show_icons=true)](https://github.com/Thunder-Chief/Thunder-Chief)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thunder-Chief&theme=tokyonight&layout=compact)](https://github.com/Thunder-Chief/Thunder-Chief)
- 
-
-<p/>
