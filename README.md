@@ -20,7 +20,7 @@ Find out more about me & feel free to connect with me here!
 - 🌱 I’m currently learning Mongo
 
 <details>
-<summary>📂 Projects On the Go </summary>
+<summary>📂 Hobbies On the Go </summary>
 - 🎞 I enjoy TV-Shows & Movies - I have a Plex instance on a server in Amsterdam that I manage, it serves my media collection to my friends & family.
 </details>
 
