@@ -21,8 +21,8 @@ Find out more about me & feel free to connect with me here!
 <details>
 <summary>On the go Projects</summary>
 - 🎞 I enjoy TV-Shows & Movies - I have a [Plex](https://github.com/plexinc) instance on a server in Amsterdam that I manage, it serves my media collection to my friends & family.
- <details/>
-
+<details/>
+<p>
 ## ⚡ Technologies
 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
@@ -57,3 +57,4 @@ Find out more about me & feel free to connect with me here!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thunder-Chief&theme=tokyonight&layout=compact)](https://github.com/Thunder-Chief/Thunder-Chief)
  
 
+<p/>
