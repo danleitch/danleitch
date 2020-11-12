@@ -13,7 +13,6 @@ I am passionate about tech & and the open-source community. I am always open to 
 Find out more about me & feel free to connect with me here!
 
 <img align="right" alt="GIF" src="https://github.com/Thunder-Chief/Thunder-Chief/blob/main/code.gif?raw=true" width="500" height="320" />
-[Markdown Live Preview](https://markdownlivepreview.com/).
 **Talking about Personal Stuff:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:
@@ -23,9 +22,9 @@ Find out more about me & feel free to connect with me here!
 <summary>📂 Hobbies On the Go </summary>
  <p>
  - I have a Ubunutu instance on a server in Amsterdam and another server I run at home, they both serve my media collection to my friends & family.
-   These instances run all their applications on docker, which is passed through Nginx with full SSL done by Let's Encrypt & CertBot, Nginx is set up to act as reverse proxy for    security and ease of use purposes. then from there it goes through Cloudflare for [CDN](https://www.cloudflare.com/en-gb/learning/cdn/what-is-a-cdn/) then to NameCheap which is my domain provider.
+   These instances run all their applications on docker, which is passed through Nginx with full SSL done by Let's Encrypt & CertBot, Nginx is set up to act as reverse proxy for    security and ease of use purposes. then from there it goes through Cloudflare for CDN then to NameCheap which    is my domain provider.
   
-  [howdy](https://www.cloudflare.com/en-gb/learning/cdn/what-is-a-cdn/)
+
   
  - I have built my own Raspberry pi Security camera system which streams and records in 1080p and run on POE (Power over ethernet) this is also served through Nginx which make      it viewable from outside the home.  
  
