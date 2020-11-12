@@ -18,6 +18,7 @@ Find out more about me & feel free to connect with me here!
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:
 - 🌱 I’m currently learning Mongo
+<summary>On the go Projects</summary>
 - 🎞 I enjoy TV-Shows & Movies - I have a [Plex](https://github.com/plexinc) instance on a server in Amsterdam that I manage, it serves my media collection to my friends & family.
 
 ## ⚡ Technologies
