@@ -13,7 +13,8 @@ I am passionate about tech & and the open-source community. I am always open to 
 Find out more about me & feel free to connect with me here!
 
 <img align="right" alt="GIF" src="https://github.com/Thunder-Chief/Thunder-Chief/blob/main/code.gif?raw=true" width="500" height="320" />
-## **Talking about Personal Stuff:**
+
+**Talking about Personal Stuff:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:
 - 🌱 I’m currently learning Mongo
