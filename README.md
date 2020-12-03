@@ -22,8 +22,7 @@ Find out more about me & feel free to connect with me here!
 <details>
 <summary>📂 Hobbies On the Go </summary>
  
- - I have a Ubunutu instance on a server in Amsterdam and another server I run at home, they both serve my media collection to my friends & family.
-   These instances run all their applications on docker, which is passed through Nginx with full SSL done by Let's Encrypt & CertBot, Nginx is set up to act as reverse proxy for    security and ease of use purposes. then from there it goes through Cloudflare for CDN then to NameCheap which    is my domain provider.
+ - I have a Ubuntu instance on a server in Amsterdam and another server I run at home, they both serve my media collection to my friends & family. These instances run all their    applications on Docker, which is passed through Nginx with full SSL done by Let's Encrypt & CertBot, Nginx is set up to act as a reverse proxy for security and ease of use.      Then from there, it goes through Cloudflare’s CDN then to NameCheap which is my domain provider.
   
 
   
