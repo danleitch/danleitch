@@ -17,7 +17,7 @@ Find out more about me & feel free to connect with me here!
 **Talking about Personal Stuff:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:
-- 🌱 I’m currently learning Mongo
+- 🌱 I’m currently learning Next.JS
 
 <details>
 <summary>📂 Hobbies On the Go </summary>
