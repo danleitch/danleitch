@@ -1,5 +1,6 @@
 ### Fancy seeing you here! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+[![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=medium)](https://danleitch.medium.com/)
 [![Resume](https://img.shields.io/badge/-Resume-success?style=flat-square)](https://thunder-chief.github.io/Daniel_Leitch_CV/)
 [![Linkedin Badge](https://img.shields.io/badge/-Danielleitch-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielleitch//)](https://www.linkedin.com/in/danielleitch/)
 [![Instagram Badge](https://img.shields.io/badge/-dan_leitch-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/dan_leitch/)](https://www.instagram.com/dan_leitch/)
@@ -7,7 +8,7 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-red?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/bladesnbones)](https://t.me/bladesnbones)
 <img alt="GitHub hits" src="https://img.shields.io/github/last-commit/Thunder-Chief/Thunder-Chief?label=Profile%20Updated&style=flat-square">
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Thunder-Chief)
-[![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=medium)](https://danleitch.medium.com/)
+
 
 Hi, I'm Daniel Leitch, a Full Stack Developer 🚀 and Linux Enthusiast from Cape Town, South Africa.
 I am passionate about tech & and the open-source community. I am always open to collaborating on projects and innovative/disruptive ideas. 
