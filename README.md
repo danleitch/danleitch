@@ -18,8 +18,8 @@ Find out more about me & feel free to connect with me here!
 
 **Talking about Personal Stuff:**
 
-- 👨🏽‍💻 I’m currently working on a Covid 19 tracker :wink:
-- 🌱 I’m currently learning Next.js
+- 👨🏽‍💻 I’m currently working on a Covid 19 tracker.
+- 🌱 I’m currently learning Next.js.
 
 <details>
 <summary>📂 Hobbies On the Go </summary>
