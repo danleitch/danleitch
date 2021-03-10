@@ -21,12 +21,12 @@ Find out more about me & feel free to connect with me here!
 - 👨🏽‍💻 I’m currently working on a Covid 19 tracker.
 - 🌱 I’m currently learning Next.js.
 
-<details>
+<!-- <details>
 <summary>📂 Hobbies On the Go </summary>
  
  - I have a Ubuntu instance on a Hetzner server in Germany and another server I run at home, they both serve my media collection to my friends & family. These instances run all their applications on Docker, which is passed through Nginx with full SSL done by Let's Encrypt & CertBot, Nginx is set up to act as a reverse proxy for security and ease of use. Then from there, it goes through Cloudflare’s CDN then to NameCheap which is my domain provider.
   
-</details>
+</details> -->
 
 ## ⚡ Technologies
 
