@@ -16,11 +16,6 @@ Find out more about me & feel free to connect with me here!
 
 <img align="right" alt="GIF" src="https://github.com/Thunder-Chief/Thunder-Chief/blob/main/code.gif?raw=true" width="500" height="320" />
 
-**Talking about Personal Stuff:**
-
-- 👨🏽‍💻 I’m currently working on a Covid 19 tracker.
-- 🌱 I’m currently building a Covid19 Tracker.
-
 <!-- <details>
 <summary>📂 Hobbies On the Go </summary>
  
