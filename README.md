@@ -23,8 +23,9 @@ Find out more about me & feel free to connect with me here!
   
 </details> -->
 
-## ⚡ Technologies
+## ⚡ Technology Exposure 
 
+![TypeScript](https://img.shields.io/badge/-TypeScript-C51A4A?style=flat-square&logo=typescript)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Express](https://img.shields.io/badge/-ExpressJS-red?style=flat-square&logo=expressjs&logoColor=black)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
