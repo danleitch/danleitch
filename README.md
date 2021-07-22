@@ -28,6 +28,7 @@ Find out more about me & feel free to connect with me here!
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Express](https://img.shields.io/badge/-ExpressJS-red?style=flat-square&logo=expressjs&logoColor=black)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Cypress](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=cypress)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
