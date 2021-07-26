@@ -27,6 +27,7 @@ Find out more about me & feel free to connect with me here!
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-C51A4A?style=flat-square&logo=typescript)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
 ![Express](https://img.shields.io/badge/-ExpressJS-red?style=flat-square&logo=expressjs&logoColor=black)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Cypress](https://img.shields.io/badge/-Cypress-black?style=flat-square&logo=cypress)
