@@ -51,6 +51,7 @@ Find out more about me & feel free to connect with me here!
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![IOT](https://img.shields.io/badge/-IOT-blue?style=flat-square&logo=IOT)
+![PHP](https://img.shields.io/badge/-IOT-blue?style=flat-square&logo=PHP)
 
 
 
