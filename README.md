@@ -1,7 +1,7 @@
 ### Fancy seeing you here! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <!-- [![Resume](https://img.shields.io/badge/-Resume-success?style=flat-square)](https://thunder-chief.github.io/Daniel_Leitch_CV/) -->
-[![Linkedin Badge](https://img.shields.io/badge/-Danielleitch-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielleitch//)](https://www.linkedin.com/in/danielleitch/)
+[![Linkedin Badge](https://img.shields.io/badge/-Daniel Leitch-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielleitch//)](https://www.linkedin.com/in/danielleitch/)
 [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=medium)](https://danleitch.medium.com/)
 [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dndleitch@gmail.com)](mailto:dndleitch@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-red?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/bladesnbones)](https://t.me/bladesnbones)
