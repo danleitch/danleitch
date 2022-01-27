@@ -43,6 +43,7 @@ Find out more about me & feel free to connect with me here!
 ![Hetzner](https://img.shields.io/badge/-Hetzner-563D7C?style=flat-square&logo=hetzner)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-red?style=flat-square&logo=Ubuntu&logoColor=black)
 ![Hugo](https://img.shields.io/badge/-Hugo-5391FE?style=flat-square&logo=hugo&logoColor=white)
+![Jekyll](https://img.shields.io/badge/-Jekyll-5391FE?style=flat-square&logo=jekyll&logoColor=white)
 ![Windows](https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=windows&logoColor=white)
 ![Mac](https://img.shields.io/badge/OS-Mac-informational?style=flat-square&logo=Apple&logoColor=white)
 ![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)
