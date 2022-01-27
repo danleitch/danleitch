@@ -7,7 +7,7 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-red?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/thunderchiefza)](https://t.me/thunderchiefza)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Thunder-Chief)
 
-Hi, I'm Daniel a Full Stack Developer, Docker and Linux Enthusiast from Cape Town, South Africa. 
+Hi, I'm Daniel a Front-end Developer, Docker and Linux Enthusiast from Cape Town, South Africa. 
 I am passionate about tech & and the open-source community. I am always open to collaborating on projects and innovative/disruptive ideas. 
 Find out more about me & feel free to connect with me here!
 
