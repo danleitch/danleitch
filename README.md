@@ -21,6 +21,7 @@ Find out more about me & feel free to connect with me here!
 </details> -->
 
 ## ⚡ Technology Exposure 
+![Jest](https://img.shields.io/badge/-Jest-blue?style=flat-square&logo=Jest)
 ![Storybook](https://img.shields.io/badge/-Storybook-563D7C?style=flat-square&logo=storybook)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-C51A4A?style=flat-square&logo=typescript)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
