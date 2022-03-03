@@ -6,7 +6,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dndleitch@gmail.com)](mailto:dndleitch@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-red?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/thunderchiefza)](https://t.me/thunderchiefza)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Thunder-Chief)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=neilswart3)
 
 
 Hi, I'm Daniel a Front-end Developer, Docker and Linux Enthusiast from Cape Town, South Africa. 
