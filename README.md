@@ -65,6 +65,8 @@ Find out more about me & feel free to connect with me here!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thunder-Chief&theme=tokyonight&layout=compact)](https://github.com/Thunder-Chief/Thunder-Chief)
 [![Daniel's github stats](https://github-readme-stats.vercel.app/api?username=Thunder-Chief&theme=tokyonight&show_icons=true)](https://github.com/Thunder-Chief/Thunder-Chief)
 
+profile-3d-contrib/profile-green-animate.svg
+
 
 <!-- Spare stuff  -->
 
