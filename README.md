@@ -58,16 +58,7 @@ Find out more about me & feel free to connect with me here!
 ![IOT](https://img.shields.io/badge/-IOT-blue?style=flat-square&logo=IOT)
 <!-- ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=PHP) -->
 
-
-
-
-## 📈 My GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thunder-Chief&theme=tokyonight&layout=compact)](https://github.com/Thunder-Chief/Thunder-Chief)
-[![Daniel's github stats](https://github-readme-stats.vercel.app/api?username=Thunder-Chief&theme=tokyonight&show_icons=true)](https://github.com/Thunder-Chief/Thunder-Chief)
-
-profile-3d-contrib/profile-green-animate.svg
-
-# Contributions
+# 📈 Contributions
 <h4 align="center">Isometric view of contributions in the last year. Languages pie is based on recent commits</h4>
 <p align="center">
 	<a href="./profile-3d-contrib/profile-night-green.svg">
