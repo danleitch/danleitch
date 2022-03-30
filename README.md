@@ -21,7 +21,7 @@ Find out more about me & feel free to connect with me here!
   
 </details> -->
 
-## ⚡ Technology Exposure 
+### ⚡ Technology Exposure 
 ![Jest](https://img.shields.io/badge/-Jest-blue?style=flat-square&logo=Jest)
 ![Storybook](https://img.shields.io/badge/-Storybook-563D7C?style=flat-square&logo=storybook)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-C51A4A?style=flat-square&logo=typescript)
@@ -58,7 +58,7 @@ Find out more about me & feel free to connect with me here!
 ![IOT](https://img.shields.io/badge/-IOT-blue?style=flat-square&logo=IOT)
 <!-- ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=PHP) -->
 
-## 📈 Contributions
+### 📈 Contributions
 <h4 align="center">Isometric view of contributions in the last year. Languages pie is based on recent commits</h4>
 <p align="center">
 	<a href="./profile-3d-contrib/profile-night-green.svg">
