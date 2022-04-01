@@ -1,3 +1,4 @@
+<div align="center">
 ### Fancy seeing you here! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <!-- [![Resume](https://img.shields.io/badge/-Resume-success?style=flat-square)](https://thunder-chief.github.io/Daniel_Leitch_CV/) -->
@@ -11,7 +12,7 @@
 Hi, I'm Daniel a Front-end Developer, Docker and Linux Enthusiast from Cape Town, South Africa. 
 I am passionate about tech & and the open-source community. I am always open to collaborating on projects and innovative/disruptive ideas. 
 Find out more about me & feel free to connect with me here!
-
+</div>
 <img align="right" alt="GIF" src="https://github.com/Thunder-Chief/Thunder-Chief/blob/main/code.gif?raw=true" width="500" height="320" />
 
 <!-- <details>
