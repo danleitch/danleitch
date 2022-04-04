@@ -2,26 +2,18 @@
 	
 ### Fancy seeing you here! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<!-- [![Resume](https://img.shields.io/badge/-Resume-success?style=flat-square)](https://thunder-chief.github.io/Daniel_Leitch_CV/) -->
 [![Linkedin Badge](https://img.shields.io/badge/-Daniel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielleitch//)](https://www.linkedin.com/in/danielleitch/)
 [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=medium)](https://danleitch.medium.com/)
 [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dndleitch@gmail.com)](mailto:dndleitch@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-red?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/thunderchiefza)](https://t.me/thunderchiefza)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Thunder-Chief)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=danleitch)
 
 
 Hi, I'm Daniel a Front-end Developer, Docker and Linux Enthusiast from Cape Town, South Africa. 
 I am passionate about tech & and the open-source community. I am always open to collaborating on projects and innovative/disruptive ideas. 
 Find out more about me & feel free to connect with me here!
 </div>
-<img align="right" alt="GIF" src="https://github.com/Thunder-Chief/Thunder-Chief/blob/main/code.gif?raw=true" width="500" height="320" />
-
-<!-- <details>
-<summary>📂 Hobbies On the Go </summary>
- 
- - I have a Ubuntu instance on a Hetzner server in Germany and another server I run at home, they both serve my media collection to my friends & family. These instances run all their applications on Docker, which is passed through Nginx with full SSL done by Let's Encrypt & CertBot, Nginx is set up to act as a reverse proxy for security and ease of use. Then from there, it goes through Cloudflare’s CDN then to NameCheap which is my domain provider.
-  
-</details> -->
+<img align="right" alt="GIF" src="https://github.com/danleitch/danleitch/blob/main/code.gif?raw=true" width="500" height="320" />
 
 ### ⚡ Technology Exposure 
 ![Jest](https://img.shields.io/badge/-Jest-blue?style=flat-square&logo=Jest)
@@ -58,7 +50,7 @@ Find out more about me & feel free to connect with me here!
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![IOT](https://img.shields.io/badge/-IOT-blue?style=flat-square&logo=IOT)
-<!-- ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=PHP) -->
+
 
 ### 📈 Contributions
 <h4 align="center">Isometric view of contributions in the last year. Languages pie is based on recent commits</h4>
@@ -67,7 +59,3 @@ Find out more about me & feel free to connect with me here!
 		<img width="900em" src="./profile-3d-contrib/profile-night-green.svg">
 	</a>
 </p>
-
-<!-- Spare stuff  -->
-
-<!-- [![Instagram Badge](https://img.shields.io/badge/-dan_leitch-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/dan_leitch/)](https://www.instagram.com/dan_leitch/) -->
