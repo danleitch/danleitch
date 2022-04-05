@@ -51,6 +51,9 @@ Find out more about me & feel free to connect with me here!
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![IOT](https://img.shields.io/badge/-IOT-blue?style=flat-square&logo=IOT)
 
+<p align="center">
+	<img width="450em" src="https://github-readme-stats.vercel.app/api?username=danleitch&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" />
+</p>
 
 ### 📈 Contributions
 <h4 align="center">Isometric view of contributions in the last year. Languages pie is based on recent commits</h4>
