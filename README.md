@@ -1,6 +1,11 @@
-<div align="center">
+
+	Hello and welcome :smile:
+
+
+
+<h3 align="center">
 	
-### Fancy seeing you here! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+Fancy seeing you here! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 [![Linkedin Badge](https://img.shields.io/badge/-Daniel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielleitch//)](https://www.linkedin.com/in/danielleitch/)
 [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=medium)](https://danleitch.medium.com/)
@@ -12,7 +17,7 @@
 Hi, I'm Daniel a Front-end Developer, Docker and Linux Enthusiast from Cape Town, South Africa. 
 I am passionate about tech & and the open-source community. I am always open to collaborating on projects and innovative/disruptive ideas. 
 Find out more about me & feel free to connect with me here!
-</div>
+</h3>
 
 <img align="center" alt="GIF" src="https://github.com/danleitch/danleitch/blob/main/code.gif?raw=true" width="500" height="320" />
 
