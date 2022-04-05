@@ -13,7 +13,8 @@ Hi, I'm Daniel a Front-end Developer, Docker and Linux Enthusiast from Cape Town
 I am passionate about tech & and the open-source community. I am always open to collaborating on projects and innovative/disruptive ideas. 
 Find out more about me & feel free to connect with me here!
 </div>
-<img align="right" alt="GIF" src="https://github.com/danleitch/danleitch/blob/main/code.gif?raw=true" width="500" height="320" />
+
+<img align="center" alt="GIF" src="https://github.com/danleitch/danleitch/blob/main/code.gif?raw=true" width="500" height="320" />
 
 ### ⚡ Technology Exposure 
 ![Jest](https://img.shields.io/badge/-Jest-blue?style=flat-square&logo=Jest)
