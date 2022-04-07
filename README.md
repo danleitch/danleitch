@@ -118,6 +118,12 @@ Find out more about me & feel free to connect with me here!
 	</a>
 </p>
 
+## Scripts
+<p align="center">
+	<a href="https://github.com/danleitch/Media-Server-with-Docker-Ubuntu">
+		<img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=danleitch&repo=Media-Server-with-Docker-Ubuntu&hide_border=true&theme=dark">
+	</a>
+</p>
 
 
 
