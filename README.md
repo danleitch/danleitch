@@ -6,9 +6,7 @@ Fancy seeing you here! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7
 <h3 align="center">
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielleitch//)](https://www.linkedin.com/in/danielleitch/)
-	
-[![Medium Badge](https://img.shields.io/badge/-Medium-.black?style=for-the-badge&logo=medium)](https://danleitch.medium.com/)
-	
+[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://danleitch.medium.com/)
 [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:dndleitch@gmail.com)](mailto:dndleitch@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-red?style=for-the-badge&logo=Telegram&logoColor=white&link=https://t.me/thunderchiefza)](https://t.me/thunderchiefza)
 
