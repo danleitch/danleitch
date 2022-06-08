@@ -22,7 +22,7 @@ Find out more about me & feel free to connect with me here!
 <br>
 
 <p align="center"> 
-<img  width="450px" alt="GIF" src="https://github.com/danleitch/danleitch/blob/main/code.gif?raw=true"  />
+<img  width="450px" height="310px" alt="GIF" src="https://github.com/danleitch/danleitch/blob/main/code.gif?raw=true"  />
 </p>
 
 <p align="center">
