@@ -30,7 +30,7 @@ Find out more about me & feel free to connect with me here!
 </p>
 
 <p align="center">
-	<img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danleitch&layout=compact&custom_title=Most used languages&langs_count=10&include_all_commits=true&hide_progress=true&hide_border=true&theme=dark&count_private=true">
+	<img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danleitch&layout=compact&custom_title=Most used languages&langs_count=10&include_all_commits=true&hide_border=true&theme=dark&count_private=true">
 </p>
 
 <br>
@@ -98,9 +98,10 @@ Find out more about me & feel free to connect with me here!
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ### Orchestration Tools
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Esxi](https://img.shields.io/badge/Esxi-0000A3?style=for-the-badge&logo=&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 
 ### Other
