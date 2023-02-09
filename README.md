@@ -29,10 +29,6 @@ Find out more about me & feel free to connect with me here!
 	<img width="450em" src="https://github-readme-stats.vercel.app/api?username=danleitch&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" />
 </p>
 
-<p align="center">
-	<img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danleitch&layout=compact&custom_title=Most used languages&langs_count=10&include_all_commits=true&hide_border=true&theme=dark&count_private=true">
-</p>
-
 <br>
 
 # 📈 Contributions
