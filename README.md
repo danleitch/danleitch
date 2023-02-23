@@ -25,9 +25,9 @@ Find out more about me & feel free to connect with me here!
 <img  width="450px" height="310px" alt="GIF" src="https://github.com/danleitch/danleitch/blob/main/code.gif?raw=true"  />
 </p>
 
-<p align="center">
+<!-- <p align="center">
 	<img width="450em" src="https://github-readme-stats.vercel.app/api?username=danleitch&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" />
-</p>
+</p> -->
 
 <br>
 
