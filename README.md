@@ -31,11 +31,11 @@ Hey there! I'm a Front-end Developer, Docker and Linux enthusiast hailing from t
 
 # 📈 Contributions
 <h4 align="center">Isometric view of contributions in the last year. Languages pie is based on recent commits</h4>
-<p align="center">
+<!-- <p align="center">
 	<a href="./profile-3d-contrib/profile-night-view.svg">
 		<img width="900em" src="./profile-3d-contrib/profile-night-view.svg">
 	</a>
-</p>
+</p> -->
 <br>
 
 # ⚡ Technology Exposure 
