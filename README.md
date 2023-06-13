@@ -11,7 +11,7 @@ Fancy seeing you here! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-red?style=for-the-badge&logo=Telegram&logoColor=white&link=https://t.me/thunderchiefza)](https://t.me/thunderchiefza)
 
 
-Hey there! I'm a Front-end Developer, Docker and Linux enthusiast hailing from the beautiful city of Cape Town in South Africa. I have a deep passion for all things tech and love contributing to the open-source community. If you have an innovative or disruptive idea, I'm your guy! Let's collaborate and make something great together. Want to know more about me? Don't hesitate to connect with me here!
+Hey there! I'm a Front-end Developer, Docker and Linux enthusiast. I have a deep passion for all things tech and love contributing to the open-source community. If you have an innovative or disruptive idea, I'm your guy! Let's collaborate and make something great together. Want to know more about me? Don't hesitate to connect with me here!
 
 </h3>
 
