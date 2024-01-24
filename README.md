@@ -45,10 +45,8 @@ Hey there! I'm a Front-end Developer, Docker and Linux enthusiast. I have a deep
 ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ### Databases
-
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%2300f.svg?style=for-the-badge&logo=firebase&logoColor=orange)
-
 
 ### Frameworks, Platforms and Libraries
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -64,7 +62,6 @@ Hey there! I'm a Front-end Developer, Docker and Linux enthusiast. I have a deep
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Storybook](https://img.shields.io/badge/-Storybook-563D7C?style=for-the-badge&logo=storybook)
 
 ### Hosting/SaaS
@@ -72,6 +69,7 @@ Hey there! I'm a Front-end Developer, Docker and Linux enthusiast. I have a deep
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=for-the-badge&logo=digitalocean)
 ![Hetzner](https://img.shields.io/badge/-Hetzner-A30701?style=for-the-badge&logo=hetzner)
+![Firebase](https://img.shields.io/badge/-Firebase-A30701?style=for-the-badge&logo=firebase)
 
 ### Programming & Markdown, Styling Languages
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -87,10 +85,10 @@ Hey there! I'm a Front-end Developer, Docker and Linux enthusiast. I have a deep
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
 
-
 ### Version Control
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![ADO](https://img.shields.io/badge/-ADO-A30701?style=for-the-badge&logo=microsoft)
 
 ### Orchestration Tools
 ![Esxi](https://img.shields.io/badge/Esxi-0000A3?style=for-the-badge&logo=&logoColor=white)
@@ -98,15 +96,18 @@ Hey there! I'm a Front-end Developer, Docker and Linux enthusiast. I have a deep
 ![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
+### DNS
+![Nginx](https://img.shields.io/badge/-Nginx-black?style=for-the-badge&logo=nginx)
+![CloudFlare](https://img.shields.io/badge/-CloudFlare-black?style=for-the-badge&logo=cloudflare)
+![Route 53](https://img.shields.io/badge/-Route%2053-A30701?style=for-the-badge&logo=amazon)
+
 
 ### Other
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-red?style=for-the-badge&logo=Ubuntu&logoColor=black)
-![Nginx](https://img.shields.io/badge/-Nginx-black?style=for-the-badge&logo=nginx)
-![CloudFlare](https://img.shields.io/badge/-CloudFlare-black?style=for-the-badge&logo=cloudflare)
 ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![IOT](https://img.shields.io/badge/-IOT-blue?style=for-the-badge&logo=IOT)
 
@@ -125,13 +126,3 @@ Hey there! I'm a Front-end Developer, Docker and Linux enthusiast. I have a deep
 		<img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=danleitch&repo=Media-Server-with-Docker-Ubuntu&hide_border=true&theme=dark">
 	</a>
 </p>
-
-
-
-
-
-
-
-
-
-
