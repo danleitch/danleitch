@@ -10,9 +10,6 @@ Welcome  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" w
 [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:dndleitch@gmail.com)](mailto:dndleitch@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-red?style=for-the-badge&logo=Telegram&logoColor=white&link=https://t.me/thunderchiefza)](https://t.me/thunderchiefza)
 
-
-Hey there! I am a passionate Frontend Developer with a strong technical background in React, Linux, and DevOps. I have a deep passion for all things tech and love contributing to the open-source community. If you have an innovative or disruptive idea, let's collaborate and make something great together. Want to know more about me? Don't hesitate to connect with me here!
-
 </h3>
 
 <br>
