@@ -29,12 +29,12 @@ Most of my work sits between frontend engineering, product thinking, technical l
 
 ## What I've Been Working With Recently
 
-- Frontend: Angular, Nx, React, Vite, TypeScript, JavaScript, Redux, GraphQL, Storybook, Cypress, Jest
-- App and package tooling: Node.js, npm, reusable templates, small utilities, GitHub Actions, monorepo workflows
-- Backend and data: Express, PostgreSQL, MongoDB, Firebase
-- Platform and delivery: AWS, Docker, Vercel, Heroku, DigitalOcean, Google Cloud, Nginx, Cloudflare
-- Docs and systems work: Markdown, technical documentation, workflow design, CI/CD
-- Hardware and tinkering: ESPHome, ESP32, Arduino, Raspberry Pi, Ubuntu, self-hosted services
+- **Frontend:** Angular, Nx, React, Vite, TypeScript, JavaScript, Redux, GraphQL, Storybook, Cypress, Jest
+- **App and package tooling:** Node.js, npm, reusable templates, small utilities, GitHub Actions, monorepo workflows
+- **Backend and data:** Express, PostgreSQL, MongoDB, Firebase
+- **Platform and delivery:** AWS, Docker, Vercel, Heroku, DigitalOcean, Google Cloud, Nginx, Cloudflare
+- **Docs and systems work:** Markdown, technical documentation, workflow design, CI/CD
+- **Hardware and tinkering:** ESPHome, ESP32, Arduino, Raspberry Pi, Ubuntu, self-hosted services
 
 ## Things You'll See Across My GitHub
 
